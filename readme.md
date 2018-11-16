@@ -1,6 +1,6 @@
 # Global Day of Coderetreat 2018
 
-This is a simple template I made for Global Day of Coderetreat 2018.  It uses node and mocha for TTD.
+This is a simple template I made for Global Day of Coderetreat 2018.  It uses node and mocha for TDD.
 
 ## Installation
 
